@@ -9,6 +9,12 @@ Looking for the bot? Find it [here](https://github.com/Vincentvibe3/emergencyfoo
 
 ![Build Status Github Actions](https://github.com/Vincentvibe3/emergencyfood-v2-remote/actions/workflows/Build.yaml/badge.svg?branch=main)
 
+*Releases:*
+
+![Build Status Github Actions](https://github.com/Vincentvibe3/emergencyfood-v2-remote/actions/workflows/release.yaml/badge.svg)
+
+Release
+
 ## Dependencies
 
 This project is made possible by:
