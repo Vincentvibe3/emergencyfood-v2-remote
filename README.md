@@ -3,6 +3,12 @@ Remote component for the emergencyfood-v2 Discord bot
 
 Looking for the bot? Find it [here](https://github.com/Vincentvibe3/emergencyfood-v2).
 
+## Status
+
+*Main branch:* 
+
+![Build Status Github Actions](https://github.com/Vincentvibe3/emergencyfood-v2-remote/actions/workflows/Build.yaml/badge.svg?branch=main)
+
 ## Dependencies
 
 This project is made possible by:
