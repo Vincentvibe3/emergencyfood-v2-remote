@@ -28,6 +28,9 @@ dependencies {
     implementation("org.jetbrains.exposed:exposed-dao:0.36.1")
     implementation("org.jetbrains.exposed:exposed-jdbc:0.36.1")
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.5.31")
+    implementation("io.ktor:ktor-auth:1.6.4")
+    implementation("io.ktor:ktor-auth-jwt:1.6.4")
+    implementation("org.json:json:20210307")
 }
 
 tasks.test {
